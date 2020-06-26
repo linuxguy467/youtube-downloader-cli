@@ -1,0 +1,24 @@
+{
+  "name": "youtube-downloader-cli",
+  "version": "1.0.0",
+  "description": "Youtube video downloader nodejs cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linuxguy467/youtube-downloader-cli.git"
+  },
+  "author": "Matthew Hemingway <dpplrdr435@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/linuxguy467/youtube-downloader-cli/issues"
+  },
+  "homepage": "https://github.com/linuxguy467/youtube-downloader-cli#readme",
+  "dependencies": {
+    "commander": "^5.1.0",
+    "ora": "^4.0.4",
+    "youtube-mp3-downloader": "^0.6.8"
+  }
+}
